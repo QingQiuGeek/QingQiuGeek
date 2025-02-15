@@ -2,7 +2,6 @@
 
 - 🤓 一名26届本科生，软件工程专业。
 - 📖 主修JavaWeb，略懂大数据，有全栈开发经验。
-- 🖼️ 保持浪漫，热爱生活。
 - 🔖 [我的博客](https://blog.csdn.net/qq_73181349)
 - 🎊 [全栈项目](https://aigeek.icu)
 - 🤖 [QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=g191QBc0TmaI)
