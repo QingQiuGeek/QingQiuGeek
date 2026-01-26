@@ -2,9 +2,12 @@
 
 - 🤓 一名26届本科生，软件工程专业。
 - 📖 主修JavaWeb，有全栈开发经验。
-- 👀 上海两段java后端实习，目前对AI、Web3感兴趣
+- 👀 上海两段java后端实习，对AI、Web3感兴趣
 - 📬 邮箱: qingqiugeek@gmail.com
 - 💐 [个人博客](https://blog.aigeek.icu/zh-cn/)
+- 🕶️ [Twitter](https://x.com/QingQiuGeek)
+- 📞 [Telegram](https://t.me/qingqiugeek)
+- 📕 [小红书](https://xhslink.com/m/7KnFDVVsAbr)
 - 🔖 [CSDN博客](https://blog.csdn.net/qq_73181349)
 - 🎊 [全栈项目](http://aigeek.icu)
 - 🤖 [QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=g191QBc0TmaI)
