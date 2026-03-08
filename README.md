@@ -1,8 +1,8 @@
 ## Hi I'm QingQiu（青秋） 👋
 
-- 🤓 一名26届本科生，软件工程专业。
+- 🤓 03年，22届本科生，软件工程专业。
 - 📖 主修JavaWeb，有全栈开发经验。
-- 👀 上海两段java后端实习，对AI、Web3感兴趣
+- 👀 上海两段java后端实习，对AI、Web3感兴趣！
 - 📬 邮箱: qingqiugeek@gmail.com
 - 💐 [个人博客](https://blog.aigeek.icu/zh-cn/)
 - 🕶️ [Twitter](https://x.com/QingQiuGeek)
